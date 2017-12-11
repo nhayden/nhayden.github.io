@@ -1,19 +1,19 @@
 # Jobs
-# Springfield Nuclear Power Plant
-- company: Springfield Nuclear Power Plant
-  position: Safety Inspector
-  duration: Nov, 1980 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>Ate lots of donuts</li><li>Fell asleep rarely</li><li>Left promptly at end of day (sometimes earlier)</li></ul>
+# Fred Hutch Cancer Research Center
+- company: Fred Hutch Cancer Research Center
+  position: Systems Analyst/Programmer II
+  duration: Dec 2013 &mdash; July 2015
+  summary: <em>Bioconductor</em> Core Team<ul class="resume-item-list"><li>Wrote R language extensions in R and C++/C for orders-of-magnitude speed-ups for genomic data analysis on four platforms; extensive use of profiling and benchmarking to make data-driven decisions about how to optimize</li><li>Led migration to C++11 and modernization of C++ codebase. Also wrote tools to enforce stricter use of best practices and standards compliance. Fixed issues in dozens of 3rd-party packages that relied on unspecified/undefined behavior</li><li><em>Rhtslib</em>, author&#58; C and R interface for analysis of high throughput sequence data. Rhtslib is in top 5% of downloads in entire Bioconductor repository (over 15.7 million Bioconductor package downloads this year at time of writing)</li><li>Successfully contributed patches to R core language</li><li>Wrote internal developer tools, including a memory-use logger for R</li><li>Consulted on and reviewed packages submitted from outside sources to raise the bar in efficiency & maintainability</li><li>Served as resource/consulted on R and R/C++ integration to wider Fred Hutch community</li><li>Languages / Technologies&#58; R, C++, gdb, shell scripting, C, python</li></ul>
 
-# Windmill Crank Operator
-- company: Sir Putt-A-Lot's Merrie Olde Fun Centre
-  position: Safety Inspector
-  duration:  Jun, 1978 &mdash; Sept, 1979
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Amazon
+- company: Amazon
+  position: Software Development Engineer, Intern
+  duration:  Sep 2012 &mdash; Dec 2012
+  summary: <ul class="resume-item-list"><li>Created centralized service to gather information from disparate NoSQL data stores into single location and store data in data warehouse (DW) for downstream impact analysis. Also wrote SQL extract-transform-load (ETL) logic to process incoming data on DW end</li><li>Languages / Technologies&#58; Java, SQL, shell scripting, git</li></ul>
 
 
-# Front Desk Attendant
-- company: Simpson Lazer Tag
-  position: Front Desk Attendant
-  duration:   Jun, 1975  &mdash; May, 1978
-  summary: Boy, when Marge first told me she was going to the Police Academy, I thought it would be fun and exciting, you know, like the movie... Spaceballs. But instead, it's been painful and disturbing, like the movie Police Academy.
+# City of Bothell Public Works
+- company: City of Bothell, Washington
+  position: Database Designer, Intern
+  duration:   Mar 2008  &mdash; Jun 2008
+  summary: Designed database for City of Bothell Public Works Department to monitor Surface and Storm Water Management
