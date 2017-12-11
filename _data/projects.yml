@@ -1,16 +1,37 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
-# donutfinder.io
-- project: donutfinder.io
-  role: Founder & Primary Developer
-  duration: 2012 &mdash; Present
-  # url: "#"
-  description: Donut Locator is an open source node/ember app that lets users find donuts within a defined radius from their home.
+# Girls Who Code
+- project: Girls Who Code
+  role: Lead Facilitator
+  duration: Oct 2017 &mdash; Present
+  url: "https://girlswhocode.com/"
+  description: Run after-school program at two schools to inspire middle and high school girls to explore technology and pursue computer science studies. Roles include&#58; <ul><li>instruction in computer science fundamentals</li><li>preparation of instructional materials</li><li>research and coordination of projects</li><li>applying for grants</li></ul>
 
-#Springfield Donut Eater's User Group
-- project: Springfield Donut Eater's User Group
-  role: Co-Founder & Organizer
-  duration: 2007 &mdash; Present
+# Recent coursework
+- project: Recent selected coursework
+  #role: Student
+  duration: ongoing
   # url: "#"
-  description: DEUG is a local monthly meetup in Springfield where we share all the latest tips and tricks for dat donut lifestyle. I organize the group, and typically eat most of the donuts.
+  description: <ul><li>Princeton&#58; <em>Algorithms, Part I</em> (project-based, Java) — Grade&#58; 100.0%; Summer 2017</li><li>Princeton&#58; <em>Algorithms</em>, Part II (project-based, Java) — in progress</li><li>Rice University&#58; <em>Distributed Computing in Java</em> — in progress</li><li>MIT&#58; <em>The Analytics Edge</em> (machine learning/data analysis in R); Summer 2017</li></ul>
+
+# Flexbox Gallery
+- project: Flexbox Gallery
+  role: Author
+  duration: ongoing
+  url: "https://github.com/nhayden/flexbox-gallery"
+  description: Use new flexbox and HTML5/CSS3 capabilities in browsers to make responsive photo gallery. Focus on user interface (UI) design and page analytics to speed up load time. ES6 (JavaScript) / jQuery, CSS3, HTML5
+
+# Hidden Markov Models
+- project: Hidden Markov Models (HMMs) for predicting protein secondary structure
+  role: Co-author
+  duration: 2013
+  #url: "#"
+  description: Python
+
+# h5robj
+- project: h5robj
+  role: Author
+  duration: 2014
+  url: "https://github.com/nhayden/h5robj"
+  description: R package (proof of concept) to use Hierarchical Data Format (HDF5) to store Big Data R objects that cannot fit in memory on disk, allowing hyper-rectangular reading and writing to process large data sets in chunks. R, C
