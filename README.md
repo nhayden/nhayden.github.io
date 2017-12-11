@@ -1,4 +1,4 @@
-### [Personal resume](natehayden.com) of Nathaniel Hayden*
+### [Personal resume](//natehayden.com) of Nathaniel Hayden*
 
 ![img](images/screenshot.png)
 
