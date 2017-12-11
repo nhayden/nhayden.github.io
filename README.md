@@ -1,3 +1,5 @@
+<!-- uses Liquid Template Language -->
+
 ### [Personal resume](http://natehayden.com) of Nathaniel Hayden*
 
 (partial screenshot)
