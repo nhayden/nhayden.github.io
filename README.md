@@ -1,5 +1,6 @@
 ### [Personal resume](http://natehayden.com) of Nathaniel Hayden*
 
+(partial screenshot)
 ![img](images/screenshot.png)
 
 \* Adapted from [jglovier](https://github.com/jglovier)'s [resume-template](https://github.com/jglovier/resume-template)
