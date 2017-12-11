@@ -16,7 +16,7 @@ resume_title:                   "Software Developer, do-gooder enthusiast"
 #resume_contact_telephone:       "555-555-5555"
 resume_contact_address:         "Greater Seattle Area"
 #resume_header_contact_info: "Greater Seattle Area | 555-555-5555 | nope@nope.com"
-resume_header_intro: "<p>I dig deep to create a great experience for users, and I love working for a cause. As part of the Bioconductor core team I delivered scalable, efficient cross-platform scientific programming solutions; built a reputation for raising the bar technically; and used my drive and creativity to dive in headfirst and deliver in new domains.</p> <ul><li>Primary technologies&#58; Java (proficient), C++ (proficient), R (proficient), JavaScript/CSS/HTML (proficient), Python (proficient), SQL (proficient)</li>"
+resume_header_intro: "<p>I dig deep to create a great experience for users, and I love working for a cause. As part of the Bioconductor core team I delivered scalable, efficient cross-platform scientific programming solutions; built a reputation for raising the bar technically; and used my drive and creativity to dive in headfirst and deliver quickly in new domains.</p> <ul><li>Primary technologies&#58; Java (proficient), C++ (proficient), R (proficient), JavaScript/CSS/HTML (proficient), Python (proficient), SQL (proficient)</li>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
