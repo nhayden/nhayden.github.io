@@ -13,7 +13,7 @@
   #role: Student
   #duration: ongoing
   # url: "#"
-  description: <ul><li>Princeton&#58; <em>Algorithms, Part I</em> (project-based, Java) — Grade&#58; 100.0%; Summer 2017</li><li>Princeton&#58; <em>Algorithms</em>, Part II (project-based, Java) — in progress</li><li>Rice University&#58; <em>Distributed Computing in Java</em> — in progress</li><li>MIT&#58; <em>The Analytics Edge</em> (machine learning/data analysis in R); Summer 2017</li></ul>
+  description: <ul><li>Princeton&#58; <em>Algorithms, Part I</em> (project-based, Java) — Grade&#58; 100.0%; Summer 2017</li><li>Princeton&#58; <em>Algorithms, Part II</em> (project-based, Java) — in progress</li><li>Rice University&#58; <em>Distributed Computing in Java</em> — in progress</li><li>MIT&#58; <em>The Analytics Edge</em> (machine learning/data analysis in R); Summer 2017</li></ul>
 
 # Flexbox Gallery
 - project: Flexbox Gallery
