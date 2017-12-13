@@ -147,22 +147,29 @@
       <!-- end Interests -->
       {% endif %}
 
-      {% if site.resume_section_skills %}
-      <!-- begin Skills -->
+      {% if site.resume_section_volunteering %}
+      <!-- begin Volunteering -->
       <section class="content-section">
 
         <header class="section-header">
-          <h2>Additional Skills</h2>
+          <h2>Additional Volunteering</h2>
         </header>
-        {% for skill in site.data.skills %}
-        <div class="resume-item">
-          <h4 class="resume-item-details">{{ skill.skill }}</h4>
-          <p class="resume-item-copy">{{ skill.description }}</p>
-        </div>
+
+        {% for job in site.data.volunteering %}
+        <div class="resume-item" itemscope itemprop="worksFor" itemtype="http://schema.org/Organization">
+          <h3 class="resume-item-title" itemprop="name">{{ job.company }}</h3>
+          <h4 class="resume-item-details" itemprop="description">{{ job.position }} &bull; {{ job.duration }}</h4>
+
+          {% for country in site.data.countries %}
+          <p class="resume-item-copy" itemprop="name">{{ country.country }}&#58; {{ country.description }}</p>
+          <ul class="resume-item-list">{{ country.list }}</ul>
+          {% endfor %}
+
+        </div><!-- end of resume-item -->
         {% endfor %}
 
       </section>
-      <!-- end Skills -->
+      <!-- end Experience -->
       {% endif %}
 
       {% if site.resume_section_associations %}
@@ -183,6 +190,24 @@
 
       </section>
       <!-- end Associations -->
+      {% endif %}
+
+      {% if site.resume_section_skills %}
+      <!-- begin Skills -->
+      <section class="content-section">
+
+        <header class="section-header">
+          <h2>Additional Skills</h2>
+        </header>
+        {% for skill in site.data.skills %}
+        <div class="resume-item">
+          <h4 class="resume-item-details">{{ skill.skill }}</h4>
+          <p class="resume-item-copy">{{ skill.description }}</p>
+        </div>
+        {% endfor %}
+
+      </section>
+      <!-- end Skills -->
       {% endif %}
 
       {% if site.resume_section_links %}
