@@ -4,9 +4,10 @@
   position: Independent Volunteer
   duration: 2015 &mdash; 2017
   summary: Self-directed volunteer sabbatical around the world in early education, adult education, English language instruction, non-profit management, elderly care, home construction/maintenance, and landscaping.
+  
 # Fred Hutch Cancer Research Center
 - company: Fred Hutch Cancer Research Center
-  position: Systems Analyst/Programmer II
+  position: Software Engineer
   duration: Dec 2013 &mdash; July 2015
   summary: <em>Bioconductor</em> Core Team<ul class="resume-item-list"><li>Wrote R language extensions in R and C++/C for orders-of-magnitude speed-ups for genomic data analysis on four platforms; extensive use of profiling and benchmarking to make data-driven decisions about how to optimize</li><li>Led modernization of C++ codebase. Also wrote tools to enforce stricter use of best practices</li><li>Authored <em>Rhtslib</em>, a C and R interface for high throughput sequence data analysis; <em>Rhtslib</em> is in top 5% of downloads in entire Bioconductor repository (over 15.7 million Bioconductor package downloads in 2017 at time of writing)</li><li>Successfully contributed patches to R core language</li><li>Consulted on and reviewed 3rd-party packages submitted to the Bioconductor open-source project</li><li>Consulted on R and R/C++ integration projects for wider Fred Hutch community</li><li>Languages / Technologies&#58; R, C++, gdb, shell scripting, C, git, python, TDD</li></ul>
 
