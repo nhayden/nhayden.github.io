@@ -1,10 +1,16 @@
 # Jobs
+# Seagull Scientific
+- company: Seagull Scientific
+  position: Software Engineer
+  duration: August 2018 &mdash; Present
+  summary: <ul class="resume-item-list"><li>Architect and develop device drivers using a combination of C/C++ and Python for international clients, including Canon</li><li>100% perfect ratings from QA team on all software</li></ul>
+
 # International volunteer sabbatical
 - company: International Volunteer Sabbatical
   position: Independent Volunteer
   duration: 2015 &mdash; 2017
   summary: Self-directed volunteer sabbatical around the world in early education, adult education, English language instruction, non-profit management, elderly care, home construction/maintenance, and landscaping.
-  
+
 # Fred Hutch Cancer Research Center
 - company: Fred Hutch Cancer Research Center
   position: Software Engineer
